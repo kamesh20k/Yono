@@ -2,7 +2,7 @@ public class Largest {
 
     public static void main(String[] args) {
 
-        double n1 = -4.6, n2 = 3.9, n3 = 5.5;
+        double n1 = -4.6, n2 = 3.8, n3 = 5.5;
 
         if(n1 >= n2) {
             if(n1 >= n3)
