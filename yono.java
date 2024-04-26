@@ -5,7 +5,7 @@ public class Largest {
         double n1 = -4.6, n2 = 3.8, n3 = 5.6;
 
         if(n1 >= n2) {
-            if(n1 >= n3)
+            if(n2 >= n3)
                 System.out.println(n1 + " is the largest number.");
             else
                 System.out.println(n3 + " is the largest number.");
